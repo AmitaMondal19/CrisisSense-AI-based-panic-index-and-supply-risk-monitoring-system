@@ -1,0 +1,151 @@
+headline,label,panic_score,panic_level,location
+Fuel stocks running low in Pune,panic,0.75,High Panic,Pune
+Cooking Oil supply disruption fears grow in Mumbai,panic,0.66,High Panic,Mumbai
+Government assures adequate Rice supply in Ahmedabad,normal,0.21,Low Panic,Ahmedabad
+Vegetables prices rising rapidly in Chennai,panic,0.86,High Panic,Chennai
+Government assures adequate Fuel supply in Bangalore,normal,0.23,Low Panic,Bangalore
+No shortage of Vegetables says officials in Jaipur,normal,0.22,Low Panic,Jaipur
+Government assures adequate Rice supply in Delhi,normal,0.22,Low Panic,Delhi
+Vegetables prices rising rapidly in Jaipur,panic,0.71,High Panic,Jaipur
+No shortage of Vegetables says officials in Hyderabad,normal,0.18,Low Panic,Hyderabad
+People panic buying Fuel in Hyderabad,panic,0.81,High Panic,Hyderabad
+Rice prices rising rapidly in Kolkata,panic,0.74,High Panic,Kolkata
+Rice supply stable in Bangalore,normal,0.4,Low Panic,Bangalore
+Fuel supply stable in Bangalore,normal,0.17,Low Panic,Bangalore
+People panic buying Cooking Oil in Hyderabad,panic,0.83,High Panic,Hyderabad
+No shortage of Rice says officials in Kolkata,normal,0.21,Low Panic,Kolkata
+Vegetables prices under control in Mumbai,normal,0.18,Low Panic,Mumbai
+Cooking Oil stocks running low in Chennai,panic,0.87,High Panic,Chennai
+Fuel prices under control in Jaipur,normal,0.28,Low Panic,Jaipur
+People panic buying Fuel in Kolkata,panic,0.7,High Panic,Kolkata
+Shortage of Rice reported in Ahmedabad,panic,0.89,High Panic,Ahmedabad
+Government assures adequate Vegetables supply in Kolkata,normal,0.12,Low Panic,Kolkata
+Fuel stocks running low in Bangalore,panic,0.74,High Panic,Bangalore
+Cooking Oil prices under control in Chennai,normal,0.2,Low Panic,Chennai
+No shortage of Cooking Oil says officials in Bangalore,normal,0.32,Low Panic,Bangalore
+Fuel prices rising rapidly in Ahmedabad,panic,0.87,High Panic,Ahmedabad
+Shortage of Vegetables reported in Lucknow,panic,0.85,High Panic,Lucknow
+No shortage of Cooking Oil says officials in Ahmedabad,normal,0.11,Low Panic,Ahmedabad
+Rice prices under control in Kolkata,normal,0.3,Low Panic,Kolkata
+Markets report normal availability of Vegetables in Mumbai,normal,0.16,Low Panic,Mumbai
+Markets report normal availability of Vegetables in Kolkata,normal,0.2,Low Panic,Kolkata
+Fuel prices rising rapidly in Hyderabad,panic,0.81,High Panic,Hyderabad
+No shortage of Vegetables says officials in Ahmedabad,normal,0.36,Low Panic,Ahmedabad
+Cooking Oil supply stable in Kolkata,normal,0.15,Low Panic,Kolkata
+Fuel supply disruption fears grow in Bangalore,panic,0.77,High Panic,Bangalore
+Fuel prices under control in Jaipur,normal,0.21,Low Panic,Jaipur
+No shortage of Fuel says officials in Bangalore,normal,0.36,Low Panic,Bangalore
+Cooking Oil prices rising rapidly in Lucknow,panic,0.78,High Panic,Lucknow
+Fuel supply disruption fears grow in Lucknow,panic,0.73,High Panic,Lucknow
+Markets report normal availability of Vegetables in Mumbai,normal,0.14,Low Panic,Mumbai
+Rice supply disruption fears grow in Lucknow,panic,0.76,High Panic,Lucknow
+Fuel prices rising rapidly in Delhi,panic,0.76,High Panic,Delhi
+People panic buying Vegetables in Delhi,panic,0.61,High Panic,Delhi
+Fuel supply disruption fears grow in Ahmedabad,panic,0.73,High Panic,Ahmedabad
+Cooking Oil prices under control in Lucknow,normal,0.39,Low Panic,Lucknow
+Rice supply stable in Mumbai,normal,0.34,Low Panic,Mumbai
+Vegetables stocks running low in Mumbai,panic,0.85,High Panic,Mumbai
+Markets report normal availability of Fuel in Kolkata,normal,0.32,Low Panic,Kolkata
+Fuel supply stable in Ahmedabad,normal,0.27,Low Panic,Ahmedabad
+Rice prices under control in Ahmedabad,normal,0.36,Low Panic,Ahmedabad
+No shortage of Fuel says officials in Pune,normal,0.23,Low Panic,Pune
+Vegetables prices rising rapidly in Kolkata,panic,0.84,High Panic,Kolkata
+Fuel prices rising rapidly in Delhi,panic,0.61,High Panic,Delhi
+Shortage of Cooking Oil reported in Jaipur,panic,0.74,High Panic,Jaipur
+Cooking Oil prices under control in Ahmedabad,normal,0.17,Low Panic,Ahmedabad
+Shortage of Fuel reported in Pune,panic,0.62,High Panic,Pune
+Vegetables prices rising rapidly in Ahmedabad,panic,0.79,High Panic,Ahmedabad
+Markets report normal availability of Vegetables in Mumbai,normal,0.18,Low Panic,Mumbai
+Rice prices under control in Jaipur,normal,0.16,Low Panic,Jaipur
+Vegetables supply disruption fears grow in Ahmedabad,panic,0.64,High Panic,Ahmedabad
+Cooking Oil supply disruption fears grow in Pune,panic,0.74,High Panic,Pune
+Cooking Oil supply disruption fears grow in Bangalore,panic,0.65,High Panic,Bangalore
+Fuel supply stable in Bangalore,normal,0.2,Low Panic,Bangalore
+Government assures adequate Fuel supply in Hyderabad,normal,0.16,Low Panic,Hyderabad
+Markets report normal availability of Cooking Oil in Bangalore,normal,0.4,Low Panic,Bangalore
+People panic buying Rice in Ahmedabad,panic,0.78,High Panic,Ahmedabad
+Rice prices rising rapidly in Chennai,panic,0.86,High Panic,Chennai
+No shortage of Rice says officials in Jaipur,normal,0.31,Low Panic,Jaipur
+Fuel supply disruption fears grow in Hyderabad,panic,0.89,High Panic,Hyderabad
+Vegetables prices under control in Hyderabad,normal,0.27,Low Panic,Hyderabad
+Vegetables prices under control in Hyderabad,normal,0.29,Low Panic,Hyderabad
+Shortage of Vegetables reported in Hyderabad,panic,0.75,High Panic,Hyderabad
+Shortage of Fuel reported in Delhi,panic,0.75,High Panic,Delhi
+Markets report normal availability of Fuel in Jaipur,normal,0.16,Low Panic,Jaipur
+No shortage of Rice says officials in Hyderabad,normal,0.14,Low Panic,Hyderabad
+People panic buying Fuel in Delhi,panic,0.85,High Panic,Delhi
+Fuel prices rising rapidly in Kolkata,panic,0.85,High Panic,Kolkata
+Markets report normal availability of Vegetables in Jaipur,normal,0.19,Low Panic,Jaipur
+Markets report normal availability of Rice in Mumbai,normal,0.27,Low Panic,Mumbai
+Rice prices rising rapidly in Chennai,panic,0.74,High Panic,Chennai
+Vegetables prices under control in Pune,normal,0.28,Low Panic,Pune
+Rice supply stable in Kolkata,normal,0.19,Low Panic,Kolkata
+No shortage of Rice says officials in Kolkata,normal,0.39,Low Panic,Kolkata
+Government assures adequate Rice supply in Bangalore,normal,0.13,Low Panic,Bangalore
+Markets report normal availability of Vegetables in Mumbai,normal,0.17,Low Panic,Mumbai
+Cooking Oil prices under control in Jaipur,normal,0.32,Low Panic,Jaipur
+People panic buying Cooking Oil in Mumbai,panic,0.87,High Panic,Mumbai
+Government assures adequate Cooking Oil supply in Mumbai,normal,0.16,Low Panic,Mumbai
+Shortage of Rice reported in Mumbai,panic,0.85,High Panic,Mumbai
+Vegetables supply disruption fears grow in Mumbai,panic,0.66,High Panic,Mumbai
+Shortage of Vegetables reported in Hyderabad,panic,0.79,High Panic,Hyderabad
+Fuel supply disruption fears grow in Kolkata,panic,0.6,High Panic,Kolkata
+Government assures adequate Vegetables supply in Delhi,normal,0.29,Low Panic,Delhi
+Shortage of Cooking Oil reported in Hyderabad,panic,0.78,High Panic,Hyderabad
+Shortage of Fuel reported in Chennai,panic,0.65,High Panic,Chennai
+Rice prices rising rapidly in Lucknow,panic,0.82,High Panic,Lucknow
+Cooking Oil supply disruption fears grow in Bangalore,panic,0.73,High Panic,Bangalore
+Government assures adequate Rice supply in Hyderabad,normal,0.28,Low Panic,Hyderabad
+Rice prices rising rapidly in Pune,panic,0.88,High Panic,Pune
+No shortage of Rice says officials in Delhi,normal,0.39,Low Panic,Delhi
+Rice supply stable in Bangalore,normal,0.38,Low Panic,Bangalore
+Cooking Oil prices rising rapidly in Pune,panic,0.67,High Panic,Pune
+Cooking Oil supply disruption fears grow in Ahmedabad,panic,0.67,High Panic,Ahmedabad
+Shortage of Vegetables reported in Delhi,panic,0.84,High Panic,Delhi
+Cooking Oil prices under control in Mumbai,normal,0.34,Low Panic,Mumbai
+Rice prices under control in Lucknow,normal,0.3,Low Panic,Lucknow
+Vegetables supply stable in Pune,normal,0.4,Low Panic,Pune
+Government assures adequate Cooking Oil supply in Pune,normal,0.14,Low Panic,Pune
+Vegetables supply stable in Kolkata,normal,0.33,Low Panic,Kolkata
+No shortage of Rice says officials in Lucknow,normal,0.32,Low Panic,Lucknow
+Cooking Oil prices under control in Ahmedabad,normal,0.27,Low Panic,Ahmedabad
+Cooking Oil prices under control in Ahmedabad,normal,0.34,Low Panic,Ahmedabad
+Shortage of Cooking Oil reported in Pune,panic,0.87,High Panic,Pune
+Rice stocks running low in Chennai,panic,0.6,High Panic,Chennai
+Fuel stocks running low in Chennai,panic,0.89,High Panic,Chennai
+People panic buying Cooking Oil in Delhi,panic,0.84,High Panic,Delhi
+Cooking Oil prices rising rapidly in Mumbai,panic,0.69,High Panic,Mumbai
+Markets report normal availability of Cooking Oil in Mumbai,normal,0.23,Low Panic,Mumbai
+Government assures adequate Cooking Oil supply in Lucknow,normal,0.3,Low Panic,Lucknow
+Vegetables prices rising rapidly in Delhi,panic,0.79,High Panic,Delhi
+Government assures adequate Rice supply in Lucknow,normal,0.15,Low Panic,Lucknow
+Rice prices under control in Ahmedabad,normal,0.32,Low Panic,Ahmedabad
+Markets report normal availability of Cooking Oil in Kolkata,normal,0.14,Low Panic,Kolkata
+Vegetables stocks running low in Hyderabad,panic,0.88,High Panic,Hyderabad
+Rice supply disruption fears grow in Mumbai,panic,0.78,High Panic,Mumbai
+Markets report normal availability of Vegetables in Lucknow,normal,0.29,Low Panic,Lucknow
+Shortage of Fuel reported in Mumbai,panic,0.61,High Panic,Mumbai
+No shortage of Rice says officials in Chennai,normal,0.28,Low Panic,Chennai
+Vegetables stocks running low in Delhi,panic,0.62,High Panic,Delhi
+Government assures adequate Vegetables supply in Mumbai,normal,0.27,Low Panic,Mumbai
+People panic buying Fuel in Jaipur,panic,0.87,High Panic,Jaipur
+People panic buying Rice in Jaipur,panic,0.8,High Panic,Jaipur
+People panic buying Rice in Ahmedabad,panic,0.88,High Panic,Ahmedabad
+Government assures adequate Cooking Oil supply in Ahmedabad,normal,0.14,Low Panic,Ahmedabad
+No shortage of Vegetables says officials in Ahmedabad,normal,0.37,Low Panic,Ahmedabad
+Fuel stocks running low in Hyderabad,panic,0.87,High Panic,Hyderabad
+Government assures adequate Cooking Oil supply in Hyderabad,normal,0.32,Low Panic,Hyderabad
+Shortage of Vegetables reported in Kolkata,panic,0.79,High Panic,Kolkata
+Government assures adequate Vegetables supply in Jaipur,normal,0.32,Low Panic,Jaipur
+People panic buying Vegetables in Pune,panic,0.9,High Panic,Pune
+Shortage of Rice reported in Kolkata,panic,0.85,High Panic,Kolkata
+No shortage of Cooking Oil says officials in Lucknow,normal,0.32,Low Panic,Lucknow
+Rice stocks running low in Pune,panic,0.69,High Panic,Pune
+People panic buying Rice in Pune,panic,0.77,High Panic,Pune
+Vegetables supply stable in Hyderabad,normal,0.31,Low Panic,Hyderabad
+People panic buying Rice in Chennai,panic,0.81,High Panic,Chennai
+Shortage of Cooking Oil reported in Pune,panic,0.67,High Panic,Pune
+No shortage of Fuel says officials in Ahmedabad,normal,0.38,Low Panic,Ahmedabad
+Rice supply disruption fears grow in Chennai,panic,0.7,High Panic,Chennai
+Markets report normal availability of Cooking Oil in Bangalore,normal,0.22,Low Panic,Bangalore
+Vegetables supply disruption fears grow in Bangalore,panic,0.72,High Panic,Bangalore

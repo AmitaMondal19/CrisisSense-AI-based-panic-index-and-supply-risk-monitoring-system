@@ -1,0 +1,1201 @@
+date,commodity,city,price
+2024-01-01,Rice,Kolkata,59.99
+2024-01-02,Rice,Kolkata,60.58
+2024-01-03,Rice,Kolkata,60.66
+2024-01-04,Rice,Kolkata,58.96
+2024-01-05,Rice,Kolkata,61.31
+2024-01-06,Rice,Kolkata,63.95
+2024-01-07,Rice,Kolkata,65.44
+2024-01-08,Rice,Kolkata,64.61
+2024-01-09,Rice,Kolkata,64.17
+2024-01-10,Rice,Kolkata,62.4
+2024-01-11,Rice,Kolkata,63.83
+2024-01-12,Rice,Kolkata,62.36
+2024-01-13,Rice,Kolkata,65.14
+2024-01-14,Rice,Kolkata,68.06
+2024-01-15,Rice,Kolkata,66.94
+2024-01-16,Rice,Kolkata,65.6
+2024-01-17,Rice,Kolkata,67.68
+2024-01-18,Rice,Kolkata,69.76
+2024-01-19,Rice,Kolkata,68.02
+2024-01-20,Rice,Kolkata,70.7
+2024-01-21,Rice,Kolkata,73.04
+2024-01-22,Rice,Kolkata,74.7
+2024-01-23,Rice,Kolkata,72.97
+2024-01-24,Rice,Kolkata,73.47
+2024-01-25,Rice,Kolkata,72.64
+2024-01-26,Rice,Kolkata,74.55
+2024-01-27,Rice,Kolkata,73.81
+2024-01-28,Rice,Kolkata,75.29
+2024-01-29,Rice,Kolkata,78.19
+2024-01-30,Rice,Kolkata,76.97
+2024-01-01,Fuel,Kolkata,62.9
+2024-01-02,Fuel,Kolkata,64.51
+2024-01-03,Fuel,Kolkata,66.7
+2024-01-04,Fuel,Kolkata,67.95
+2024-01-05,Fuel,Kolkata,71.62
+2024-01-06,Fuel,Kolkata,73.31
+2024-01-07,Fuel,Kolkata,76.78
+2024-01-08,Fuel,Kolkata,79.76
+2024-01-09,Fuel,Kolkata,82.54
+2024-01-10,Fuel,Kolkata,83.92
+2024-01-11,Fuel,Kolkata,86.35
+2024-01-12,Fuel,Kolkata,89.93
+2024-01-13,Fuel,Kolkata,93.89
+2024-01-14,Fuel,Kolkata,96.47
+2024-01-15,Fuel,Kolkata,99.82
+2024-01-16,Fuel,Kolkata,103.34
+2024-01-17,Fuel,Kolkata,106.1
+2024-01-18,Fuel,Kolkata,107.47
+2024-01-19,Fuel,Kolkata,109.23
+2024-01-20,Fuel,Kolkata,110.3
+2024-01-21,Fuel,Kolkata,114.03
+2024-01-22,Fuel,Kolkata,116.21
+2024-01-23,Fuel,Kolkata,119.75
+2024-01-24,Fuel,Kolkata,123.63
+2024-01-25,Fuel,Kolkata,127.51
+2024-01-26,Fuel,Kolkata,129.65
+2024-01-27,Fuel,Kolkata,131.59
+2024-01-28,Fuel,Kolkata,133.57
+2024-01-29,Fuel,Kolkata,137.39
+2024-01-30,Fuel,Kolkata,139.93
+2024-01-01,Cooking Oil,Kolkata,39.22
+2024-01-02,Cooking Oil,Kolkata,40.61
+2024-01-03,Cooking Oil,Kolkata,41.72
+2024-01-04,Cooking Oil,Kolkata,41.65
+2024-01-05,Cooking Oil,Kolkata,41.31
+2024-01-06,Cooking Oil,Kolkata,42.22
+2024-01-07,Cooking Oil,Kolkata,40.52
+2024-01-08,Cooking Oil,Kolkata,40.74
+2024-01-09,Cooking Oil,Kolkata,43.33
+2024-01-10,Cooking Oil,Kolkata,45.65
+2024-01-11,Cooking Oil,Kolkata,44.91
+2024-01-12,Cooking Oil,Kolkata,47.31
+2024-01-13,Cooking Oil,Kolkata,50.15
+2024-01-14,Cooking Oil,Kolkata,48.4
+2024-01-15,Cooking Oil,Kolkata,49.64
+2024-01-16,Cooking Oil,Kolkata,49.56
+2024-01-17,Cooking Oil,Kolkata,50.96
+2024-01-18,Cooking Oil,Kolkata,49.34
+2024-01-19,Cooking Oil,Kolkata,47.68
+2024-01-20,Cooking Oil,Kolkata,46.82
+2024-01-21,Cooking Oil,Kolkata,49.04
+2024-01-22,Cooking Oil,Kolkata,51.59
+2024-01-23,Cooking Oil,Kolkata,52.45
+2024-01-24,Cooking Oil,Kolkata,53.37
+2024-01-25,Cooking Oil,Kolkata,53.03
+2024-01-26,Cooking Oil,Kolkata,51.17
+2024-01-27,Cooking Oil,Kolkata,49.32
+2024-01-28,Cooking Oil,Kolkata,50.43
+2024-01-29,Cooking Oil,Kolkata,51.86
+2024-01-30,Cooking Oil,Kolkata,53.12
+2024-01-01,Vegetables,Kolkata,42.57
+2024-01-02,Vegetables,Kolkata,43.07
+2024-01-03,Vegetables,Kolkata,45.66
+2024-01-04,Vegetables,Kolkata,43.81
+2024-01-05,Vegetables,Kolkata,45.54
+2024-01-06,Vegetables,Kolkata,45.14
+2024-01-07,Vegetables,Kolkata,44.27
+2024-01-08,Vegetables,Kolkata,43.27
+2024-01-09,Vegetables,Kolkata,44.26
+2024-01-10,Vegetables,Kolkata,45.69
+2024-01-11,Vegetables,Kolkata,46.47
+2024-01-12,Vegetables,Kolkata,45.33
+2024-01-13,Vegetables,Kolkata,47.81
+2024-01-14,Vegetables,Kolkata,46.59
+2024-01-15,Vegetables,Kolkata,48.93
+2024-01-16,Vegetables,Kolkata,49.59
+2024-01-17,Vegetables,Kolkata,52.04
+2024-01-18,Vegetables,Kolkata,50.88
+2024-01-19,Vegetables,Kolkata,52.48
+2024-01-20,Vegetables,Kolkata,54.69
+2024-01-21,Vegetables,Kolkata,53.46
+2024-01-22,Vegetables,Kolkata,54.5
+2024-01-23,Vegetables,Kolkata,52.97
+2024-01-24,Vegetables,Kolkata,53.08
+2024-01-25,Vegetables,Kolkata,51.13
+2024-01-26,Vegetables,Kolkata,53.2
+2024-01-27,Vegetables,Kolkata,53.43
+2024-01-28,Vegetables,Kolkata,55.32
+2024-01-29,Vegetables,Kolkata,56.27
+2024-01-30,Vegetables,Kolkata,57.4
+2024-01-01,Rice,Delhi,95.74
+2024-01-02,Rice,Delhi,93.75
+2024-01-03,Rice,Delhi,96.15
+2024-01-04,Rice,Delhi,94.83
+2024-01-05,Rice,Delhi,95.46
+2024-01-06,Rice,Delhi,96.41
+2024-01-07,Rice,Delhi,97.77
+2024-01-08,Rice,Delhi,96.49
+2024-01-09,Rice,Delhi,94.61
+2024-01-10,Rice,Delhi,95.69
+2024-01-11,Rice,Delhi,93.7
+2024-01-12,Rice,Delhi,94.17
+2024-01-13,Rice,Delhi,95.86
+2024-01-14,Rice,Delhi,97.91
+2024-01-15,Rice,Delhi,99.78
+2024-01-16,Rice,Delhi,102.31
+2024-01-17,Rice,Delhi,102.68
+2024-01-18,Rice,Delhi,102.97
+2024-01-19,Rice,Delhi,103.1
+2024-01-20,Rice,Delhi,105.64
+2024-01-21,Rice,Delhi,104.27
+2024-01-22,Rice,Delhi,104.5
+2024-01-23,Rice,Delhi,106.75
+2024-01-24,Rice,Delhi,105.51
+2024-01-25,Rice,Delhi,104.2
+2024-01-26,Rice,Delhi,106.0
+2024-01-27,Rice,Delhi,105.23
+2024-01-28,Rice,Delhi,106.66
+2024-01-29,Rice,Delhi,105.59
+2024-01-30,Rice,Delhi,107.85
+2024-01-01,Fuel,Delhi,91.02
+2024-01-02,Fuel,Delhi,93.97
+2024-01-03,Fuel,Delhi,97.66
+2024-01-04,Fuel,Delhi,100.31
+2024-01-05,Fuel,Delhi,103.78
+2024-01-06,Fuel,Delhi,105.06
+2024-01-07,Fuel,Delhi,106.13
+2024-01-08,Fuel,Delhi,109.42
+2024-01-09,Fuel,Delhi,112.86
+2024-01-10,Fuel,Delhi,114.02
+2024-01-11,Fuel,Delhi,116.4
+2024-01-12,Fuel,Delhi,119.66
+2024-01-13,Fuel,Delhi,123.07
+2024-01-14,Fuel,Delhi,125.15
+2024-01-15,Fuel,Delhi,126.56
+2024-01-16,Fuel,Delhi,129.33
+2024-01-17,Fuel,Delhi,130.77
+2024-01-18,Fuel,Delhi,133.02
+2024-01-19,Fuel,Delhi,134.99
+2024-01-20,Fuel,Delhi,138.68
+2024-01-21,Fuel,Delhi,140.9
+2024-01-22,Fuel,Delhi,142.1
+2024-01-23,Fuel,Delhi,145.21
+2024-01-24,Fuel,Delhi,147.45
+2024-01-25,Fuel,Delhi,149.43
+2024-01-26,Fuel,Delhi,152.76
+2024-01-27,Fuel,Delhi,154.57
+2024-01-28,Fuel,Delhi,155.57
+2024-01-29,Fuel,Delhi,158.48
+2024-01-30,Fuel,Delhi,160.43
+2024-01-01,Cooking Oil,Delhi,98.63
+2024-01-02,Cooking Oil,Delhi,99.55
+2024-01-03,Cooking Oil,Delhi,100.48
+2024-01-04,Cooking Oil,Delhi,101.73
+2024-01-05,Cooking Oil,Delhi,103.53
+2024-01-06,Cooking Oil,Delhi,103.03
+2024-01-07,Cooking Oil,Delhi,105.52
+2024-01-08,Cooking Oil,Delhi,103.89
+2024-01-09,Cooking Oil,Delhi,104.83
+2024-01-10,Cooking Oil,Delhi,103.89
+2024-01-11,Cooking Oil,Delhi,103.6
+2024-01-12,Cooking Oil,Delhi,105.36
+2024-01-13,Cooking Oil,Delhi,107.01
+2024-01-14,Cooking Oil,Delhi,108.41
+2024-01-15,Cooking Oil,Delhi,110.64
+2024-01-16,Cooking Oil,Delhi,110.71
+2024-01-17,Cooking Oil,Delhi,113.27
+2024-01-18,Cooking Oil,Delhi,113.09
+2024-01-19,Cooking Oil,Delhi,111.72
+2024-01-20,Cooking Oil,Delhi,113.11
+2024-01-21,Cooking Oil,Delhi,113.49
+2024-01-22,Cooking Oil,Delhi,114.46
+2024-01-23,Cooking Oil,Delhi,115.08
+2024-01-24,Cooking Oil,Delhi,116.89
+2024-01-25,Cooking Oil,Delhi,115.6
+2024-01-26,Cooking Oil,Delhi,117.9
+2024-01-27,Cooking Oil,Delhi,120.18
+2024-01-28,Cooking Oil,Delhi,118.24
+2024-01-29,Cooking Oil,Delhi,119.42
+2024-01-30,Cooking Oil,Delhi,118.85
+2024-01-01,Vegetables,Delhi,50.24
+2024-01-02,Vegetables,Delhi,49.08
+2024-01-03,Vegetables,Delhi,47.83
+2024-01-04,Vegetables,Delhi,49.95
+2024-01-05,Vegetables,Delhi,48.73
+2024-01-06,Vegetables,Delhi,50.7
+2024-01-07,Vegetables,Delhi,51.96
+2024-01-08,Vegetables,Delhi,53.48
+2024-01-09,Vegetables,Delhi,53.09
+2024-01-10,Vegetables,Delhi,52.01
+2024-01-11,Vegetables,Delhi,52.67
+2024-01-12,Vegetables,Delhi,53.34
+2024-01-13,Vegetables,Delhi,54.64
+2024-01-14,Vegetables,Delhi,56.99
+2024-01-15,Vegetables,Delhi,57.64
+2024-01-16,Vegetables,Delhi,58.19
+2024-01-17,Vegetables,Delhi,57.31
+2024-01-18,Vegetables,Delhi,55.6
+2024-01-19,Vegetables,Delhi,56.48
+2024-01-20,Vegetables,Delhi,58.0
+2024-01-21,Vegetables,Delhi,58.07
+2024-01-22,Vegetables,Delhi,60.51
+2024-01-23,Vegetables,Delhi,60.78
+2024-01-24,Vegetables,Delhi,60.89
+2024-01-25,Vegetables,Delhi,59.82
+2024-01-26,Vegetables,Delhi,62.07
+2024-01-27,Vegetables,Delhi,62.51
+2024-01-28,Vegetables,Delhi,61.53
+2024-01-29,Vegetables,Delhi,63.09
+2024-01-30,Vegetables,Delhi,64.05
+2024-01-01,Rice,Mumbai,48.65
+2024-01-02,Rice,Mumbai,46.71
+2024-01-03,Rice,Mumbai,48.4
+2024-01-04,Rice,Mumbai,48.62
+2024-01-05,Rice,Mumbai,51.28
+2024-01-06,Rice,Mumbai,54.03
+2024-01-07,Rice,Mumbai,52.57
+2024-01-08,Rice,Mumbai,55.55
+2024-01-09,Rice,Mumbai,58.14
+2024-01-10,Rice,Mumbai,58.44
+2024-01-11,Rice,Mumbai,60.99
+2024-01-12,Rice,Mumbai,61.45
+2024-01-13,Rice,Mumbai,59.57
+2024-01-14,Rice,Mumbai,60.77
+2024-01-15,Rice,Mumbai,63.69
+2024-01-16,Rice,Mumbai,61.93
+2024-01-17,Rice,Mumbai,64.36
+2024-01-18,Rice,Mumbai,62.85
+2024-01-19,Rice,Mumbai,65.62
+2024-01-20,Rice,Mumbai,66.65
+2024-01-21,Rice,Mumbai,68.19
+2024-01-22,Rice,Mumbai,67.92
+2024-01-23,Rice,Mumbai,68.94
+2024-01-24,Rice,Mumbai,70.07
+2024-01-25,Rice,Mumbai,68.34
+2024-01-26,Rice,Mumbai,68.75
+2024-01-27,Rice,Mumbai,70.19
+2024-01-28,Rice,Mumbai,69.11
+2024-01-29,Rice,Mumbai,67.27
+2024-01-30,Rice,Mumbai,67.74
+2024-01-01,Fuel,Mumbai,50.58
+2024-01-02,Fuel,Mumbai,51.7
+2024-01-03,Fuel,Mumbai,53.39
+2024-01-04,Fuel,Mumbai,54.58
+2024-01-05,Fuel,Mumbai,58.11
+2024-01-06,Fuel,Mumbai,61.37
+2024-01-07,Fuel,Mumbai,64.6
+2024-01-08,Fuel,Mumbai,65.81
+2024-01-09,Fuel,Mumbai,67.48
+2024-01-10,Fuel,Mumbai,70.47
+2024-01-11,Fuel,Mumbai,72.74
+2024-01-12,Fuel,Mumbai,74.25
+2024-01-13,Fuel,Mumbai,77.56
+2024-01-14,Fuel,Mumbai,80.9
+2024-01-15,Fuel,Mumbai,83.3
+2024-01-16,Fuel,Mumbai,87.02
+2024-01-17,Fuel,Mumbai,90.14
+2024-01-18,Fuel,Mumbai,93.5
+2024-01-19,Fuel,Mumbai,95.46
+2024-01-20,Fuel,Mumbai,96.86
+2024-01-21,Fuel,Mumbai,100.74
+2024-01-22,Fuel,Mumbai,104.26
+2024-01-23,Fuel,Mumbai,106.25
+2024-01-24,Fuel,Mumbai,107.62
+2024-01-25,Fuel,Mumbai,110.18
+2024-01-26,Fuel,Mumbai,111.46
+2024-01-27,Fuel,Mumbai,113.52
+2024-01-28,Fuel,Mumbai,115.73
+2024-01-29,Fuel,Mumbai,118.14
+2024-01-30,Fuel,Mumbai,119.4
+2024-01-01,Cooking Oil,Mumbai,43.51
+2024-01-02,Cooking Oil,Mumbai,43.16
+2024-01-03,Cooking Oil,Mumbai,43.66
+2024-01-04,Cooking Oil,Mumbai,42.37
+2024-01-05,Cooking Oil,Mumbai,43.6
+2024-01-06,Cooking Oil,Mumbai,46.37
+2024-01-07,Cooking Oil,Mumbai,46.78
+2024-01-08,Cooking Oil,Mumbai,48.14
+2024-01-09,Cooking Oil,Mumbai,48.2
+2024-01-10,Cooking Oil,Mumbai,48.5
+2024-01-11,Cooking Oil,Mumbai,51.1
+2024-01-12,Cooking Oil,Mumbai,50.52
+2024-01-13,Cooking Oil,Mumbai,52.62
+2024-01-14,Cooking Oil,Mumbai,52.78
+2024-01-15,Cooking Oil,Mumbai,54.11
+2024-01-16,Cooking Oil,Mumbai,52.16
+2024-01-17,Cooking Oil,Mumbai,52.19
+2024-01-18,Cooking Oil,Mumbai,54.7
+2024-01-19,Cooking Oil,Mumbai,53.27
+2024-01-20,Cooking Oil,Mumbai,53.68
+2024-01-21,Cooking Oil,Mumbai,56.32
+2024-01-22,Cooking Oil,Mumbai,55.13
+2024-01-23,Cooking Oil,Mumbai,55.16
+2024-01-24,Cooking Oil,Mumbai,55.61
+2024-01-25,Cooking Oil,Mumbai,56.83
+2024-01-26,Cooking Oil,Mumbai,55.21
+2024-01-27,Cooking Oil,Mumbai,54.92
+2024-01-28,Cooking Oil,Mumbai,53.86
+2024-01-29,Cooking Oil,Mumbai,54.61
+2024-01-30,Cooking Oil,Mumbai,56.47
+2024-01-01,Vegetables,Mumbai,52.58
+2024-01-02,Vegetables,Mumbai,52.42
+2024-01-03,Vegetables,Mumbai,54.59
+2024-01-04,Vegetables,Mumbai,53.29
+2024-01-05,Vegetables,Mumbai,53.6
+2024-01-06,Vegetables,Mumbai,53.38
+2024-01-07,Vegetables,Mumbai,53.23
+2024-01-08,Vegetables,Mumbai,53.45
+2024-01-09,Vegetables,Mumbai,52.31
+2024-01-10,Vegetables,Mumbai,52.29
+2024-01-11,Vegetables,Mumbai,52.74
+2024-01-12,Vegetables,Mumbai,55.29
+2024-01-13,Vegetables,Mumbai,54.5
+2024-01-14,Vegetables,Mumbai,53.83
+2024-01-15,Vegetables,Mumbai,55.04
+2024-01-16,Vegetables,Mumbai,55.69
+2024-01-17,Vegetables,Mumbai,55.22
+2024-01-18,Vegetables,Mumbai,55.9
+2024-01-19,Vegetables,Mumbai,54.35
+2024-01-20,Vegetables,Mumbai,54.2
+2024-01-21,Vegetables,Mumbai,53.42
+2024-01-22,Vegetables,Mumbai,53.09
+2024-01-23,Vegetables,Mumbai,52.19
+2024-01-24,Vegetables,Mumbai,52.2
+2024-01-25,Vegetables,Mumbai,53.83
+2024-01-26,Vegetables,Mumbai,53.08
+2024-01-27,Vegetables,Mumbai,51.9
+2024-01-28,Vegetables,Mumbai,54.71
+2024-01-29,Vegetables,Mumbai,55.74
+2024-01-30,Vegetables,Mumbai,53.93
+2024-01-01,Rice,Chennai,83.56
+2024-01-02,Rice,Chennai,83.86
+2024-01-03,Rice,Chennai,83.48
+2024-01-04,Rice,Chennai,81.89
+2024-01-05,Rice,Chennai,80.27
+2024-01-06,Rice,Chennai,82.55
+2024-01-07,Rice,Chennai,82.93
+2024-01-08,Rice,Chennai,83.98
+2024-01-09,Rice,Chennai,84.63
+2024-01-10,Rice,Chennai,86.84
+2024-01-11,Rice,Chennai,86.72
+2024-01-12,Rice,Chennai,86.09
+2024-01-13,Rice,Chennai,88.86
+2024-01-14,Rice,Chennai,90.39
+2024-01-15,Rice,Chennai,91.02
+2024-01-16,Rice,Chennai,92.05
+2024-01-17,Rice,Chennai,92.86
+2024-01-18,Rice,Chennai,93.05
+2024-01-19,Rice,Chennai,94.09
+2024-01-20,Rice,Chennai,95.3
+2024-01-21,Rice,Chennai,93.67
+2024-01-22,Rice,Chennai,95.71
+2024-01-23,Rice,Chennai,98.25
+2024-01-24,Rice,Chennai,98.09
+2024-01-25,Rice,Chennai,100.36
+2024-01-26,Rice,Chennai,101.18
+2024-01-27,Rice,Chennai,100.85
+2024-01-28,Rice,Chennai,101.26
+2024-01-29,Rice,Chennai,99.71
+2024-01-30,Rice,Chennai,101.18
+2024-01-01,Fuel,Chennai,88.57
+2024-01-02,Fuel,Chennai,91.93
+2024-01-03,Fuel,Chennai,93.84
+2024-01-04,Fuel,Chennai,94.91
+2024-01-05,Fuel,Chennai,97.72
+2024-01-06,Fuel,Chennai,98.96
+2024-01-07,Fuel,Chennai,101.34
+2024-01-08,Fuel,Chennai,104.12
+2024-01-09,Fuel,Chennai,105.68
+2024-01-10,Fuel,Chennai,107.83
+2024-01-11,Fuel,Chennai,109.65
+2024-01-12,Fuel,Chennai,111.87
+2024-01-13,Fuel,Chennai,115.48
+2024-01-14,Fuel,Chennai,117.78
+2024-01-15,Fuel,Chennai,120.15
+2024-01-16,Fuel,Chennai,123.16
+2024-01-17,Fuel,Chennai,125.09
+2024-01-18,Fuel,Chennai,128.13
+2024-01-19,Fuel,Chennai,129.94
+2024-01-20,Fuel,Chennai,131.81
+2024-01-21,Fuel,Chennai,134.73
+2024-01-22,Fuel,Chennai,136.27
+2024-01-23,Fuel,Chennai,138.95
+2024-01-24,Fuel,Chennai,142.39
+2024-01-25,Fuel,Chennai,144.18
+2024-01-26,Fuel,Chennai,145.72
+2024-01-27,Fuel,Chennai,146.89
+2024-01-28,Fuel,Chennai,148.78
+2024-01-29,Fuel,Chennai,151.31
+2024-01-30,Fuel,Chennai,153.14
+2024-01-01,Cooking Oil,Chennai,53.0
+2024-01-02,Cooking Oil,Chennai,53.93
+2024-01-03,Cooking Oil,Chennai,54.41
+2024-01-04,Cooking Oil,Chennai,56.14
+2024-01-05,Cooking Oil,Chennai,58.26
+2024-01-06,Cooking Oil,Chennai,60.57
+2024-01-07,Cooking Oil,Chennai,62.29
+2024-01-08,Cooking Oil,Chennai,61.87
+2024-01-09,Cooking Oil,Chennai,63.13
+2024-01-10,Cooking Oil,Chennai,63.07
+2024-01-11,Cooking Oil,Chennai,62.92
+2024-01-12,Cooking Oil,Chennai,64.16
+2024-01-13,Cooking Oil,Chennai,64.26
+2024-01-14,Cooking Oil,Chennai,63.85
+2024-01-15,Cooking Oil,Chennai,62.43
+2024-01-16,Cooking Oil,Chennai,63.17
+2024-01-17,Cooking Oil,Chennai,65.1
+2024-01-18,Cooking Oil,Chennai,63.67
+2024-01-19,Cooking Oil,Chennai,65.67
+2024-01-20,Cooking Oil,Chennai,64.15
+2024-01-21,Cooking Oil,Chennai,63.11
+2024-01-22,Cooking Oil,Chennai,65.31
+2024-01-23,Cooking Oil,Chennai,67.31
+2024-01-24,Cooking Oil,Chennai,65.52
+2024-01-25,Cooking Oil,Chennai,64.73
+2024-01-26,Cooking Oil,Chennai,62.85
+2024-01-27,Cooking Oil,Chennai,63.23
+2024-01-28,Cooking Oil,Chennai,62.11
+2024-01-29,Cooking Oil,Chennai,64.27
+2024-01-30,Cooking Oil,Chennai,63.37
+2024-01-01,Vegetables,Chennai,93.72
+2024-01-02,Vegetables,Chennai,95.17
+2024-01-03,Vegetables,Chennai,94.55
+2024-01-04,Vegetables,Chennai,93.91
+2024-01-05,Vegetables,Chennai,93.19
+2024-01-06,Vegetables,Chennai,95.28
+2024-01-07,Vegetables,Chennai,97.44
+2024-01-08,Vegetables,Chennai,97.0
+2024-01-09,Vegetables,Chennai,97.03
+2024-01-10,Vegetables,Chennai,95.76
+2024-01-11,Vegetables,Chennai,94.34
+2024-01-12,Vegetables,Chennai,92.54
+2024-01-13,Vegetables,Chennai,92.69
+2024-01-14,Vegetables,Chennai,91.53
+2024-01-15,Vegetables,Chennai,91.84
+2024-01-16,Vegetables,Chennai,90.91
+2024-01-17,Vegetables,Chennai,91.0
+2024-01-18,Vegetables,Chennai,90.78
+2024-01-19,Vegetables,Chennai,91.59
+2024-01-20,Vegetables,Chennai,90.93
+2024-01-21,Vegetables,Chennai,93.41
+2024-01-22,Vegetables,Chennai,93.08
+2024-01-23,Vegetables,Chennai,92.18
+2024-01-24,Vegetables,Chennai,94.57
+2024-01-25,Vegetables,Chennai,94.22
+2024-01-26,Vegetables,Chennai,93.45
+2024-01-27,Vegetables,Chennai,93.9
+2024-01-28,Vegetables,Chennai,93.87
+2024-01-29,Vegetables,Chennai,92.37
+2024-01-30,Vegetables,Chennai,94.35
+2024-01-01,Rice,Bangalore,83.83
+2024-01-02,Rice,Bangalore,82.2
+2024-01-03,Rice,Bangalore,82.81
+2024-01-04,Rice,Bangalore,82.29
+2024-01-05,Rice,Bangalore,85.08
+2024-01-06,Rice,Bangalore,86.41
+2024-01-07,Rice,Bangalore,87.25
+2024-01-08,Rice,Bangalore,89.47
+2024-01-09,Rice,Bangalore,92.18
+2024-01-10,Rice,Bangalore,91.27
+2024-01-11,Rice,Bangalore,89.56
+2024-01-12,Rice,Bangalore,90.32
+2024-01-13,Rice,Bangalore,88.64
+2024-01-14,Rice,Bangalore,90.0
+2024-01-15,Rice,Bangalore,88.7
+2024-01-16,Rice,Bangalore,89.07
+2024-01-17,Rice,Bangalore,89.21
+2024-01-18,Rice,Bangalore,87.53
+2024-01-19,Rice,Bangalore,90.02
+2024-01-20,Rice,Bangalore,88.95
+2024-01-21,Rice,Bangalore,90.88
+2024-01-22,Rice,Bangalore,92.52
+2024-01-23,Rice,Bangalore,91.38
+2024-01-24,Rice,Bangalore,93.83
+2024-01-25,Rice,Bangalore,93.48
+2024-01-26,Rice,Bangalore,94.02
+2024-01-27,Rice,Bangalore,93.88
+2024-01-28,Rice,Bangalore,92.74
+2024-01-29,Rice,Bangalore,94.38
+2024-01-30,Rice,Bangalore,97.37
+2024-01-01,Fuel,Bangalore,97.48
+2024-01-02,Fuel,Bangalore,98.93
+2024-01-03,Fuel,Bangalore,102.02
+2024-01-04,Fuel,Bangalore,104.73
+2024-01-05,Fuel,Bangalore,107.28
+2024-01-06,Fuel,Bangalore,109.79
+2024-01-07,Fuel,Bangalore,110.87
+2024-01-08,Fuel,Bangalore,114.63
+2024-01-09,Fuel,Bangalore,117.83
+2024-01-10,Fuel,Bangalore,120.65
+2024-01-11,Fuel,Bangalore,123.7
+2024-01-12,Fuel,Bangalore,124.75
+2024-01-13,Fuel,Bangalore,127.34
+2024-01-14,Fuel,Bangalore,129.87
+2024-01-15,Fuel,Bangalore,133.12
+2024-01-16,Fuel,Bangalore,136.52
+2024-01-17,Fuel,Bangalore,137.9
+2024-01-18,Fuel,Bangalore,141.8
+2024-01-19,Fuel,Bangalore,143.35
+2024-01-20,Fuel,Bangalore,144.52
+2024-01-21,Fuel,Bangalore,146.33
+2024-01-22,Fuel,Bangalore,148.82
+2024-01-23,Fuel,Bangalore,150.81
+2024-01-24,Fuel,Bangalore,154.45
+2024-01-25,Fuel,Bangalore,158.33
+2024-01-26,Fuel,Bangalore,161.88
+2024-01-27,Fuel,Bangalore,163.02
+2024-01-28,Fuel,Bangalore,165.26
+2024-01-29,Fuel,Bangalore,166.86
+2024-01-30,Fuel,Bangalore,168.98
+2024-01-01,Cooking Oil,Bangalore,74.78
+2024-01-02,Cooking Oil,Bangalore,73.11
+2024-01-03,Cooking Oil,Bangalore,72.3
+2024-01-04,Cooking Oil,Bangalore,70.42
+2024-01-05,Cooking Oil,Bangalore,71.27
+2024-01-06,Cooking Oil,Bangalore,73.75
+2024-01-07,Cooking Oil,Bangalore,74.61
+2024-01-08,Cooking Oil,Bangalore,77.11
+2024-01-09,Cooking Oil,Bangalore,79.41
+2024-01-10,Cooking Oil,Bangalore,78.14
+2024-01-11,Cooking Oil,Bangalore,80.7
+2024-01-12,Cooking Oil,Bangalore,83.57
+2024-01-13,Cooking Oil,Bangalore,86.15
+2024-01-14,Cooking Oil,Bangalore,84.72
+2024-01-15,Cooking Oil,Bangalore,85.16
+2024-01-16,Cooking Oil,Bangalore,87.03
+2024-01-17,Cooking Oil,Bangalore,85.75
+2024-01-18,Cooking Oil,Bangalore,85.85
+2024-01-19,Cooking Oil,Bangalore,87.36
+2024-01-20,Cooking Oil,Bangalore,85.66
+2024-01-21,Cooking Oil,Bangalore,87.8
+2024-01-22,Cooking Oil,Bangalore,87.81
+2024-01-23,Cooking Oil,Bangalore,88.62
+2024-01-24,Cooking Oil,Bangalore,88.84
+2024-01-25,Cooking Oil,Bangalore,88.88
+2024-01-26,Cooking Oil,Bangalore,89.39
+2024-01-27,Cooking Oil,Bangalore,90.66
+2024-01-28,Cooking Oil,Bangalore,90.17
+2024-01-29,Cooking Oil,Bangalore,91.66
+2024-01-30,Cooking Oil,Bangalore,90.64
+2024-01-01,Vegetables,Bangalore,58.2
+2024-01-02,Vegetables,Bangalore,57.81
+2024-01-03,Vegetables,Bangalore,56.95
+2024-01-04,Vegetables,Bangalore,55.3
+2024-01-05,Vegetables,Bangalore,55.62
+2024-01-06,Vegetables,Bangalore,57.58
+2024-01-07,Vegetables,Bangalore,57.09
+2024-01-08,Vegetables,Bangalore,59.51
+2024-01-09,Vegetables,Bangalore,61.08
+2024-01-10,Vegetables,Bangalore,59.34
+2024-01-11,Vegetables,Bangalore,58.64
+2024-01-12,Vegetables,Bangalore,59.34
+2024-01-13,Vegetables,Bangalore,61.77
+2024-01-14,Vegetables,Bangalore,64.67
+2024-01-15,Vegetables,Bangalore,63.22
+2024-01-16,Vegetables,Bangalore,65.4
+2024-01-17,Vegetables,Bangalore,68.04
+2024-01-18,Vegetables,Bangalore,67.38
+2024-01-19,Vegetables,Bangalore,67.59
+2024-01-20,Vegetables,Bangalore,69.65
+2024-01-21,Vegetables,Bangalore,69.18
+2024-01-22,Vegetables,Bangalore,69.71
+2024-01-23,Vegetables,Bangalore,72.04
+2024-01-24,Vegetables,Bangalore,73.67
+2024-01-25,Vegetables,Bangalore,74.19
+2024-01-26,Vegetables,Bangalore,73.72
+2024-01-27,Vegetables,Bangalore,76.68
+2024-01-28,Vegetables,Bangalore,79.21
+2024-01-29,Vegetables,Bangalore,78.89
+2024-01-30,Vegetables,Bangalore,77.04
+2024-01-01,Rice,Hyderabad,64.81
+2024-01-02,Rice,Hyderabad,64.42
+2024-01-03,Rice,Hyderabad,62.44
+2024-01-04,Rice,Hyderabad,62.64
+2024-01-05,Rice,Hyderabad,65.51
+2024-01-06,Rice,Hyderabad,63.95
+2024-01-07,Rice,Hyderabad,62.24
+2024-01-08,Rice,Hyderabad,61.77
+2024-01-09,Rice,Hyderabad,63.46
+2024-01-10,Rice,Hyderabad,63.48
+2024-01-11,Rice,Hyderabad,62.82
+2024-01-12,Rice,Hyderabad,62.68
+2024-01-13,Rice,Hyderabad,65.44
+2024-01-14,Rice,Hyderabad,63.88
+2024-01-15,Rice,Hyderabad,64.82
+2024-01-16,Rice,Hyderabad,63.62
+2024-01-17,Rice,Hyderabad,66.4
+2024-01-18,Rice,Hyderabad,65.08
+2024-01-19,Rice,Hyderabad,66.46
+2024-01-20,Rice,Hyderabad,68.05
+2024-01-21,Rice,Hyderabad,66.61
+2024-01-22,Rice,Hyderabad,66.64
+2024-01-23,Rice,Hyderabad,67.24
+2024-01-24,Rice,Hyderabad,68.55
+2024-01-25,Rice,Hyderabad,67.36
+2024-01-26,Rice,Hyderabad,68.71
+2024-01-27,Rice,Hyderabad,71.18
+2024-01-28,Rice,Hyderabad,70.16
+2024-01-29,Rice,Hyderabad,72.67
+2024-01-30,Rice,Hyderabad,74.19
+2024-01-01,Fuel,Hyderabad,54.08
+2024-01-02,Fuel,Hyderabad,57.29
+2024-01-03,Fuel,Hyderabad,60.23
+2024-01-04,Fuel,Hyderabad,62.91
+2024-01-05,Fuel,Hyderabad,66.8
+2024-01-06,Fuel,Hyderabad,68.2
+2024-01-07,Fuel,Hyderabad,71.64
+2024-01-08,Fuel,Hyderabad,73.06
+2024-01-09,Fuel,Hyderabad,76.15
+2024-01-10,Fuel,Hyderabad,77.63
+2024-01-11,Fuel,Hyderabad,80.55
+2024-01-12,Fuel,Hyderabad,82.56
+2024-01-13,Fuel,Hyderabad,85.9
+2024-01-14,Fuel,Hyderabad,89.44
+2024-01-15,Fuel,Hyderabad,92.23
+2024-01-16,Fuel,Hyderabad,96.08
+2024-01-17,Fuel,Hyderabad,98.52
+2024-01-18,Fuel,Hyderabad,101.9
+2024-01-19,Fuel,Hyderabad,102.94
+2024-01-20,Fuel,Hyderabad,104.0
+2024-01-21,Fuel,Hyderabad,107.53
+2024-01-22,Fuel,Hyderabad,108.84
+2024-01-23,Fuel,Hyderabad,112.06
+2024-01-24,Fuel,Hyderabad,114.34
+2024-01-25,Fuel,Hyderabad,115.4
+2024-01-26,Fuel,Hyderabad,118.9
+2024-01-27,Fuel,Hyderabad,120.33
+2024-01-28,Fuel,Hyderabad,123.8
+2024-01-29,Fuel,Hyderabad,127.06
+2024-01-30,Fuel,Hyderabad,128.16
+2024-01-01,Cooking Oil,Hyderabad,77.6
+2024-01-02,Cooking Oil,Hyderabad,76.56
+2024-01-03,Cooking Oil,Hyderabad,75.19
+2024-01-04,Cooking Oil,Hyderabad,77.37
+2024-01-05,Cooking Oil,Hyderabad,78.41
+2024-01-06,Cooking Oil,Hyderabad,79.62
+2024-01-07,Cooking Oil,Hyderabad,79.34
+2024-01-08,Cooking Oil,Hyderabad,79.35
+2024-01-09,Cooking Oil,Hyderabad,77.66
+2024-01-10,Cooking Oil,Hyderabad,79.19
+2024-01-11,Cooking Oil,Hyderabad,81.48
+2024-01-12,Cooking Oil,Hyderabad,82.11
+2024-01-13,Cooking Oil,Hyderabad,83.87
+2024-01-14,Cooking Oil,Hyderabad,82.74
+2024-01-15,Cooking Oil,Hyderabad,84.27
+2024-01-16,Cooking Oil,Hyderabad,82.49
+2024-01-17,Cooking Oil,Hyderabad,85.47
+2024-01-18,Cooking Oil,Hyderabad,86.42
+2024-01-19,Cooking Oil,Hyderabad,87.77
+2024-01-20,Cooking Oil,Hyderabad,86.32
+2024-01-21,Cooking Oil,Hyderabad,89.09
+2024-01-22,Cooking Oil,Hyderabad,88.43
+2024-01-23,Cooking Oil,Hyderabad,88.73
+2024-01-24,Cooking Oil,Hyderabad,91.07
+2024-01-25,Cooking Oil,Hyderabad,89.3
+2024-01-26,Cooking Oil,Hyderabad,87.88
+2024-01-27,Cooking Oil,Hyderabad,89.36
+2024-01-28,Cooking Oil,Hyderabad,90.1
+2024-01-29,Cooking Oil,Hyderabad,89.98
+2024-01-30,Cooking Oil,Hyderabad,91.38
+2024-01-01,Vegetables,Hyderabad,73.57
+2024-01-02,Vegetables,Hyderabad,75.93
+2024-01-03,Vegetables,Hyderabad,74.47
+2024-01-04,Vegetables,Hyderabad,75.87
+2024-01-05,Vegetables,Hyderabad,74.2
+2024-01-06,Vegetables,Hyderabad,73.93
+2024-01-07,Vegetables,Hyderabad,73.93
+2024-01-08,Vegetables,Hyderabad,75.95
+2024-01-09,Vegetables,Hyderabad,75.26
+2024-01-10,Vegetables,Hyderabad,75.75
+2024-01-11,Vegetables,Hyderabad,78.26
+2024-01-12,Vegetables,Hyderabad,81.24
+2024-01-13,Vegetables,Hyderabad,81.54
+2024-01-14,Vegetables,Hyderabad,80.2
+2024-01-15,Vegetables,Hyderabad,79.96
+2024-01-16,Vegetables,Hyderabad,80.77
+2024-01-17,Vegetables,Hyderabad,81.83
+2024-01-18,Vegetables,Hyderabad,84.12
+2024-01-19,Vegetables,Hyderabad,82.29
+2024-01-20,Vegetables,Hyderabad,83.75
+2024-01-21,Vegetables,Hyderabad,83.54
+2024-01-22,Vegetables,Hyderabad,82.72
+2024-01-23,Vegetables,Hyderabad,80.85
+2024-01-24,Vegetables,Hyderabad,79.74
+2024-01-25,Vegetables,Hyderabad,79.03
+2024-01-26,Vegetables,Hyderabad,81.55
+2024-01-27,Vegetables,Hyderabad,80.74
+2024-01-28,Vegetables,Hyderabad,80.45
+2024-01-29,Vegetables,Hyderabad,82.43
+2024-01-30,Vegetables,Hyderabad,82.11
+2024-01-01,Rice,Pune,84.14
+2024-01-02,Rice,Pune,85.75
+2024-01-03,Rice,Pune,85.85
+2024-01-04,Rice,Pune,88.1
+2024-01-05,Rice,Pune,88.77
+2024-01-06,Rice,Pune,88.95
+2024-01-07,Rice,Pune,91.09
+2024-01-08,Rice,Pune,89.61
+2024-01-09,Rice,Pune,89.72
+2024-01-10,Rice,Pune,90.62
+2024-01-11,Rice,Pune,89.59
+2024-01-12,Rice,Pune,90.08
+2024-01-13,Rice,Pune,89.78
+2024-01-14,Rice,Pune,87.94
+2024-01-15,Rice,Pune,87.73
+2024-01-16,Rice,Pune,86.02
+2024-01-17,Rice,Pune,86.15
+2024-01-18,Rice,Pune,88.09
+2024-01-19,Rice,Pune,86.78
+2024-01-20,Rice,Pune,85.27
+2024-01-21,Rice,Pune,84.06
+2024-01-22,Rice,Pune,84.8
+2024-01-23,Rice,Pune,83.02
+2024-01-24,Rice,Pune,85.32
+2024-01-25,Rice,Pune,86.61
+2024-01-26,Rice,Pune,88.62
+2024-01-27,Rice,Pune,88.26
+2024-01-28,Rice,Pune,88.31
+2024-01-29,Rice,Pune,87.75
+2024-01-30,Rice,Pune,86.65
+2024-01-01,Fuel,Pune,59.26
+2024-01-02,Fuel,Pune,61.34
+2024-01-03,Fuel,Pune,63.95
+2024-01-04,Fuel,Pune,65.81
+2024-01-05,Fuel,Pune,66.83
+2024-01-06,Fuel,Pune,68.97
+2024-01-07,Fuel,Pune,71.94
+2024-01-08,Fuel,Pune,74.91
+2024-01-09,Fuel,Pune,76.47
+2024-01-10,Fuel,Pune,77.92
+2024-01-11,Fuel,Pune,78.94
+2024-01-12,Fuel,Pune,82.42
+2024-01-13,Fuel,Pune,84.28
+2024-01-14,Fuel,Pune,86.51
+2024-01-15,Fuel,Pune,89.77
+2024-01-16,Fuel,Pune,91.5
+2024-01-17,Fuel,Pune,93.65
+2024-01-18,Fuel,Pune,96.12
+2024-01-19,Fuel,Pune,97.17
+2024-01-20,Fuel,Pune,99.19
+2024-01-21,Fuel,Pune,101.12
+2024-01-22,Fuel,Pune,105.04
+2024-01-23,Fuel,Pune,108.06
+2024-01-24,Fuel,Pune,109.56
+2024-01-25,Fuel,Pune,113.04
+2024-01-26,Fuel,Pune,116.37
+2024-01-27,Fuel,Pune,117.53
+2024-01-28,Fuel,Pune,120.68
+2024-01-29,Fuel,Pune,123.4
+2024-01-30,Fuel,Pune,127.15
+2024-01-01,Cooking Oil,Pune,99.45
+2024-01-02,Cooking Oil,Pune,99.93
+2024-01-03,Cooking Oil,Pune,102.36
+2024-01-04,Cooking Oil,Pune,100.6
+2024-01-05,Cooking Oil,Pune,98.82
+2024-01-06,Cooking Oil,Pune,98.83
+2024-01-07,Cooking Oil,Pune,101.51
+2024-01-08,Cooking Oil,Pune,101.64
+2024-01-09,Cooking Oil,Pune,102.83
+2024-01-10,Cooking Oil,Pune,104.05
+2024-01-11,Cooking Oil,Pune,106.83
+2024-01-12,Cooking Oil,Pune,109.4
+2024-01-13,Cooking Oil,Pune,109.88
+2024-01-14,Cooking Oil,Pune,108.48
+2024-01-15,Cooking Oil,Pune,109.58
+2024-01-16,Cooking Oil,Pune,111.87
+2024-01-17,Cooking Oil,Pune,110.41
+2024-01-18,Cooking Oil,Pune,110.67
+2024-01-19,Cooking Oil,Pune,111.47
+2024-01-20,Cooking Oil,Pune,109.91
+2024-01-21,Cooking Oil,Pune,110.34
+2024-01-22,Cooking Oil,Pune,111.33
+2024-01-23,Cooking Oil,Pune,111.76
+2024-01-24,Cooking Oil,Pune,110.58
+2024-01-25,Cooking Oil,Pune,112.8
+2024-01-26,Cooking Oil,Pune,112.34
+2024-01-27,Cooking Oil,Pune,110.49
+2024-01-28,Cooking Oil,Pune,112.88
+2024-01-29,Cooking Oil,Pune,112.25
+2024-01-30,Cooking Oil,Pune,113.02
+2024-01-01,Vegetables,Pune,82.41
+2024-01-02,Vegetables,Pune,85.3
+2024-01-03,Vegetables,Pune,84.48
+2024-01-04,Vegetables,Pune,84.35
+2024-01-05,Vegetables,Pune,86.54
+2024-01-06,Vegetables,Pune,84.69
+2024-01-07,Vegetables,Pune,84.78
+2024-01-08,Vegetables,Pune,86.54
+2024-01-09,Vegetables,Pune,86.19
+2024-01-10,Vegetables,Pune,85.59
+2024-01-11,Vegetables,Pune,85.85
+2024-01-12,Vegetables,Pune,87.32
+2024-01-13,Vegetables,Pune,90.06
+2024-01-14,Vegetables,Pune,92.39
+2024-01-15,Vegetables,Pune,91.97
+2024-01-16,Vegetables,Pune,91.01
+2024-01-17,Vegetables,Pune,93.27
+2024-01-18,Vegetables,Pune,92.08
+2024-01-19,Vegetables,Pune,91.81
+2024-01-20,Vegetables,Pune,90.17
+2024-01-21,Vegetables,Pune,90.65
+2024-01-22,Vegetables,Pune,90.84
+2024-01-23,Vegetables,Pune,91.0
+2024-01-24,Vegetables,Pune,91.09
+2024-01-25,Vegetables,Pune,93.76
+2024-01-26,Vegetables,Pune,93.05
+2024-01-27,Vegetables,Pune,94.39
+2024-01-28,Vegetables,Pune,96.02
+2024-01-29,Vegetables,Pune,94.58
+2024-01-30,Vegetables,Pune,92.84
+2024-01-01,Rice,Ahmedabad,74.91
+2024-01-02,Rice,Ahmedabad,77.49
+2024-01-03,Rice,Ahmedabad,79.33
+2024-01-04,Rice,Ahmedabad,78.45
+2024-01-05,Rice,Ahmedabad,78.79
+2024-01-06,Rice,Ahmedabad,78.92
+2024-01-07,Rice,Ahmedabad,80.08
+2024-01-08,Rice,Ahmedabad,80.73
+2024-01-09,Rice,Ahmedabad,81.71
+2024-01-10,Rice,Ahmedabad,82.0
+2024-01-11,Rice,Ahmedabad,80.3
+2024-01-12,Rice,Ahmedabad,79.92
+2024-01-13,Rice,Ahmedabad,78.81
+2024-01-14,Rice,Ahmedabad,77.03
+2024-01-15,Rice,Ahmedabad,77.9
+2024-01-16,Rice,Ahmedabad,78.32
+2024-01-17,Rice,Ahmedabad,76.46
+2024-01-18,Rice,Ahmedabad,78.07
+2024-01-19,Rice,Ahmedabad,77.69
+2024-01-20,Rice,Ahmedabad,76.01
+2024-01-21,Rice,Ahmedabad,74.97
+2024-01-22,Rice,Ahmedabad,74.82
+2024-01-23,Rice,Ahmedabad,75.37
+2024-01-24,Rice,Ahmedabad,75.65
+2024-01-25,Rice,Ahmedabad,74.63
+2024-01-26,Rice,Ahmedabad,74.53
+2024-01-27,Rice,Ahmedabad,75.42
+2024-01-28,Rice,Ahmedabad,74.94
+2024-01-29,Rice,Ahmedabad,77.87
+2024-01-30,Rice,Ahmedabad,79.74
+2024-01-01,Fuel,Ahmedabad,100.14
+2024-01-02,Fuel,Ahmedabad,102.01
+2024-01-03,Fuel,Ahmedabad,103.42
+2024-01-04,Fuel,Ahmedabad,106.26
+2024-01-05,Fuel,Ahmedabad,109.45
+2024-01-06,Fuel,Ahmedabad,113.36
+2024-01-07,Fuel,Ahmedabad,114.5
+2024-01-08,Fuel,Ahmedabad,115.84
+2024-01-09,Fuel,Ahmedabad,117.2
+2024-01-10,Fuel,Ahmedabad,118.54
+2024-01-11,Fuel,Ahmedabad,121.06
+2024-01-12,Fuel,Ahmedabad,122.68
+2024-01-13,Fuel,Ahmedabad,125.66
+2024-01-14,Fuel,Ahmedabad,127.33
+2024-01-15,Fuel,Ahmedabad,130.56
+2024-01-16,Fuel,Ahmedabad,133.03
+2024-01-17,Fuel,Ahmedabad,135.87
+2024-01-18,Fuel,Ahmedabad,137.53
+2024-01-19,Fuel,Ahmedabad,140.69
+2024-01-20,Fuel,Ahmedabad,143.26
+2024-01-21,Fuel,Ahmedabad,145.97
+2024-01-22,Fuel,Ahmedabad,147.45
+2024-01-23,Fuel,Ahmedabad,150.04
+2024-01-24,Fuel,Ahmedabad,151.71
+2024-01-25,Fuel,Ahmedabad,154.43
+2024-01-26,Fuel,Ahmedabad,155.49
+2024-01-27,Fuel,Ahmedabad,157.38
+2024-01-28,Fuel,Ahmedabad,159.41
+2024-01-29,Fuel,Ahmedabad,162.44
+2024-01-30,Fuel,Ahmedabad,164.62
+2024-01-01,Cooking Oil,Ahmedabad,81.25
+2024-01-02,Cooking Oil,Ahmedabad,79.69
+2024-01-03,Cooking Oil,Ahmedabad,80.36
+2024-01-04,Cooking Oil,Ahmedabad,83.13
+2024-01-05,Cooking Oil,Ahmedabad,85.22
+2024-01-06,Cooking Oil,Ahmedabad,86.79
+2024-01-07,Cooking Oil,Ahmedabad,86.52
+2024-01-08,Cooking Oil,Ahmedabad,86.05
+2024-01-09,Cooking Oil,Ahmedabad,85.63
+2024-01-10,Cooking Oil,Ahmedabad,86.23
+2024-01-11,Cooking Oil,Ahmedabad,87.75
+2024-01-12,Cooking Oil,Ahmedabad,86.02
+2024-01-13,Cooking Oil,Ahmedabad,89.01
+2024-01-14,Cooking Oil,Ahmedabad,88.99
+2024-01-15,Cooking Oil,Ahmedabad,91.89
+2024-01-16,Cooking Oil,Ahmedabad,91.79
+2024-01-17,Cooking Oil,Ahmedabad,91.32
+2024-01-18,Cooking Oil,Ahmedabad,91.83
+2024-01-19,Cooking Oil,Ahmedabad,94.06
+2024-01-20,Cooking Oil,Ahmedabad,96.0
+2024-01-21,Cooking Oil,Ahmedabad,96.12
+2024-01-22,Cooking Oil,Ahmedabad,97.04
+2024-01-23,Cooking Oil,Ahmedabad,96.72
+2024-01-24,Cooking Oil,Ahmedabad,96.67
+2024-01-25,Cooking Oil,Ahmedabad,99.22
+2024-01-26,Cooking Oil,Ahmedabad,100.81
+2024-01-27,Cooking Oil,Ahmedabad,99.8
+2024-01-28,Cooking Oil,Ahmedabad,99.9
+2024-01-29,Cooking Oil,Ahmedabad,101.69
+2024-01-30,Cooking Oil,Ahmedabad,100.23
+2024-01-01,Vegetables,Ahmedabad,83.23
+2024-01-02,Vegetables,Ahmedabad,81.75
+2024-01-03,Vegetables,Ahmedabad,84.37
+2024-01-04,Vegetables,Ahmedabad,83.31
+2024-01-05,Vegetables,Ahmedabad,83.03
+2024-01-06,Vegetables,Ahmedabad,84.22
+2024-01-07,Vegetables,Ahmedabad,86.33
+2024-01-08,Vegetables,Ahmedabad,85.19
+2024-01-09,Vegetables,Ahmedabad,86.61
+2024-01-10,Vegetables,Ahmedabad,85.82
+2024-01-11,Vegetables,Ahmedabad,88.52
+2024-01-12,Vegetables,Ahmedabad,88.54
+2024-01-13,Vegetables,Ahmedabad,89.26
+2024-01-14,Vegetables,Ahmedabad,87.96
+2024-01-15,Vegetables,Ahmedabad,89.34
+2024-01-16,Vegetables,Ahmedabad,88.47
+2024-01-17,Vegetables,Ahmedabad,88.12
+2024-01-18,Vegetables,Ahmedabad,86.17
+2024-01-19,Vegetables,Ahmedabad,87.73
+2024-01-20,Vegetables,Ahmedabad,89.99
+2024-01-21,Vegetables,Ahmedabad,89.41
+2024-01-22,Vegetables,Ahmedabad,88.09
+2024-01-23,Vegetables,Ahmedabad,87.25
+2024-01-24,Vegetables,Ahmedabad,88.41
+2024-01-25,Vegetables,Ahmedabad,90.91
+2024-01-26,Vegetables,Ahmedabad,92.0
+2024-01-27,Vegetables,Ahmedabad,92.48
+2024-01-28,Vegetables,Ahmedabad,91.65
+2024-01-29,Vegetables,Ahmedabad,91.77
+2024-01-30,Vegetables,Ahmedabad,91.04
+2024-01-01,Rice,Jaipur,98.84
+2024-01-02,Rice,Jaipur,99.99
+2024-01-03,Rice,Jaipur,99.27
+2024-01-04,Rice,Jaipur,98.67
+2024-01-05,Rice,Jaipur,99.48
+2024-01-06,Rice,Jaipur,101.27
+2024-01-07,Rice,Jaipur,102.73
+2024-01-08,Rice,Jaipur,103.95
+2024-01-09,Rice,Jaipur,106.67
+2024-01-10,Rice,Jaipur,107.22
+2024-01-11,Rice,Jaipur,105.63
+2024-01-12,Rice,Jaipur,107.17
+2024-01-13,Rice,Jaipur,107.08
+2024-01-14,Rice,Jaipur,105.34
+2024-01-15,Rice,Jaipur,104.82
+2024-01-16,Rice,Jaipur,107.74
+2024-01-17,Rice,Jaipur,108.17
+2024-01-18,Rice,Jaipur,107.05
+2024-01-19,Rice,Jaipur,107.84
+2024-01-20,Rice,Jaipur,106.15
+2024-01-21,Rice,Jaipur,108.19
+2024-01-22,Rice,Jaipur,107.25
+2024-01-23,Rice,Jaipur,105.68
+2024-01-24,Rice,Jaipur,106.89
+2024-01-25,Rice,Jaipur,107.51
+2024-01-26,Rice,Jaipur,107.42
+2024-01-27,Rice,Jaipur,108.8
+2024-01-28,Rice,Jaipur,111.64
+2024-01-29,Rice,Jaipur,114.34
+2024-01-30,Rice,Jaipur,116.36
+2024-01-01,Fuel,Jaipur,82.41
+2024-01-02,Fuel,Jaipur,85.72
+2024-01-03,Fuel,Jaipur,89.44
+2024-01-04,Fuel,Jaipur,91.43
+2024-01-05,Fuel,Jaipur,92.6
+2024-01-06,Fuel,Jaipur,96.28
+2024-01-07,Fuel,Jaipur,99.82
+2024-01-08,Fuel,Jaipur,102.36
+2024-01-09,Fuel,Jaipur,104.04
+2024-01-10,Fuel,Jaipur,108.02
+2024-01-11,Fuel,Jaipur,109.6
+2024-01-12,Fuel,Jaipur,112.31
+2024-01-13,Fuel,Jaipur,114.38
+2024-01-14,Fuel,Jaipur,115.75
+2024-01-15,Fuel,Jaipur,119.56
+2024-01-16,Fuel,Jaipur,120.88
+2024-01-17,Fuel,Jaipur,123.35
+2024-01-18,Fuel,Jaipur,126.5
+2024-01-19,Fuel,Jaipur,130.28
+2024-01-20,Fuel,Jaipur,133.79
+2024-01-21,Fuel,Jaipur,135.05
+2024-01-22,Fuel,Jaipur,137.42
+2024-01-23,Fuel,Jaipur,140.52
+2024-01-24,Fuel,Jaipur,142.1
+2024-01-25,Fuel,Jaipur,143.97
+2024-01-26,Fuel,Jaipur,145.36
+2024-01-27,Fuel,Jaipur,146.86
+2024-01-28,Fuel,Jaipur,150.46
+2024-01-29,Fuel,Jaipur,154.06
+2024-01-30,Fuel,Jaipur,155.92
+2024-01-01,Cooking Oil,Jaipur,75.02
+2024-01-02,Cooking Oil,Jaipur,75.17
+2024-01-03,Cooking Oil,Jaipur,74.35
+2024-01-04,Cooking Oil,Jaipur,76.55
+2024-01-05,Cooking Oil,Jaipur,76.78
+2024-01-06,Cooking Oil,Jaipur,76.01
+2024-01-07,Cooking Oil,Jaipur,74.42
+2024-01-08,Cooking Oil,Jaipur,77.14
+2024-01-09,Cooking Oil,Jaipur,76.63
+2024-01-10,Cooking Oil,Jaipur,77.44
+2024-01-11,Cooking Oil,Jaipur,77.34
+2024-01-12,Cooking Oil,Jaipur,76.12
+2024-01-13,Cooking Oil,Jaipur,78.1
+2024-01-14,Cooking Oil,Jaipur,80.22
+2024-01-15,Cooking Oil,Jaipur,80.69
+2024-01-16,Cooking Oil,Jaipur,82.43
+2024-01-17,Cooking Oil,Jaipur,81.95
+2024-01-18,Cooking Oil,Jaipur,84.12
+2024-01-19,Cooking Oil,Jaipur,84.65
+2024-01-20,Cooking Oil,Jaipur,83.78
+2024-01-21,Cooking Oil,Jaipur,83.08
+2024-01-22,Cooking Oil,Jaipur,82.34
+2024-01-23,Cooking Oil,Jaipur,82.37
+2024-01-24,Cooking Oil,Jaipur,82.82
+2024-01-25,Cooking Oil,Jaipur,84.85
+2024-01-26,Cooking Oil,Jaipur,86.72
+2024-01-27,Cooking Oil,Jaipur,89.03
+2024-01-28,Cooking Oil,Jaipur,88.78
+2024-01-29,Cooking Oil,Jaipur,91.27
+2024-01-30,Cooking Oil,Jaipur,92.82
+2024-01-01,Vegetables,Jaipur,71.56
+2024-01-02,Vegetables,Jaipur,71.12
+2024-01-03,Vegetables,Jaipur,69.38
+2024-01-04,Vegetables,Jaipur,71.37
+2024-01-05,Vegetables,Jaipur,73.36
+2024-01-06,Vegetables,Jaipur,74.17
+2024-01-07,Vegetables,Jaipur,75.5
+2024-01-08,Vegetables,Jaipur,74.05
+2024-01-09,Vegetables,Jaipur,73.43
+2024-01-10,Vegetables,Jaipur,76.3
+2024-01-11,Vegetables,Jaipur,77.86
+2024-01-12,Vegetables,Jaipur,76.79
+2024-01-13,Vegetables,Jaipur,75.62
+2024-01-14,Vegetables,Jaipur,76.33
+2024-01-15,Vegetables,Jaipur,78.92
+2024-01-16,Vegetables,Jaipur,77.11
+2024-01-17,Vegetables,Jaipur,76.24
+2024-01-18,Vegetables,Jaipur,74.96
+2024-01-19,Vegetables,Jaipur,73.91
+2024-01-20,Vegetables,Jaipur,75.53
+2024-01-21,Vegetables,Jaipur,77.95
+2024-01-22,Vegetables,Jaipur,76.28
+2024-01-23,Vegetables,Jaipur,79.01
+2024-01-24,Vegetables,Jaipur,81.07
+2024-01-25,Vegetables,Jaipur,83.86
+2024-01-26,Vegetables,Jaipur,85.88
+2024-01-27,Vegetables,Jaipur,85.24
+2024-01-28,Vegetables,Jaipur,85.6
+2024-01-29,Vegetables,Jaipur,85.52
+2024-01-30,Vegetables,Jaipur,87.9
+2024-01-01,Rice,Lucknow,93.56
+2024-01-02,Rice,Lucknow,94.27
+2024-01-03,Rice,Lucknow,97.02
+2024-01-04,Rice,Lucknow,99.55
+2024-01-05,Rice,Lucknow,101.01
+2024-01-06,Rice,Lucknow,99.98
+2024-01-07,Rice,Lucknow,102.85
+2024-01-08,Rice,Lucknow,102.96
+2024-01-09,Rice,Lucknow,102.14
+2024-01-10,Rice,Lucknow,101.52
+2024-01-11,Rice,Lucknow,99.55
+2024-01-12,Rice,Lucknow,101.75
+2024-01-13,Rice,Lucknow,100.31
+2024-01-14,Rice,Lucknow,103.12
+2024-01-15,Rice,Lucknow,104.63
+2024-01-16,Rice,Lucknow,106.04
+2024-01-17,Rice,Lucknow,105.56
+2024-01-18,Rice,Lucknow,103.95
+2024-01-19,Rice,Lucknow,104.64
+2024-01-20,Rice,Lucknow,105.04
+2024-01-21,Rice,Lucknow,105.05
+2024-01-22,Rice,Lucknow,103.24
+2024-01-23,Rice,Lucknow,102.08
+2024-01-24,Rice,Lucknow,102.87
+2024-01-25,Rice,Lucknow,104.67
+2024-01-26,Rice,Lucknow,107.42
+2024-01-27,Rice,Lucknow,108.86
+2024-01-28,Rice,Lucknow,111.06
+2024-01-29,Rice,Lucknow,113.18
+2024-01-30,Rice,Lucknow,113.35
+2024-01-01,Fuel,Lucknow,67.23
+2024-01-02,Fuel,Lucknow,69.15
+2024-01-03,Fuel,Lucknow,71.12
+2024-01-04,Fuel,Lucknow,75.04
+2024-01-05,Fuel,Lucknow,76.24
+2024-01-06,Fuel,Lucknow,77.83
+2024-01-07,Fuel,Lucknow,81.79
+2024-01-08,Fuel,Lucknow,85.77
+2024-01-09,Fuel,Lucknow,86.87
+2024-01-10,Fuel,Lucknow,89.75
+2024-01-11,Fuel,Lucknow,91.61
+2024-01-12,Fuel,Lucknow,93.83
+2024-01-13,Fuel,Lucknow,96.85
+2024-01-14,Fuel,Lucknow,98.06
+2024-01-15,Fuel,Lucknow,100.38
+2024-01-16,Fuel,Lucknow,102.0
+2024-01-17,Fuel,Lucknow,105.74
+2024-01-18,Fuel,Lucknow,108.73
+2024-01-19,Fuel,Lucknow,110.62
+2024-01-20,Fuel,Lucknow,112.93
+2024-01-21,Fuel,Lucknow,115.26
+2024-01-22,Fuel,Lucknow,118.44
+2024-01-23,Fuel,Lucknow,120.81
+2024-01-24,Fuel,Lucknow,122.25
+2024-01-25,Fuel,Lucknow,123.6
+2024-01-26,Fuel,Lucknow,125.32
+2024-01-27,Fuel,Lucknow,126.77
+2024-01-28,Fuel,Lucknow,128.36
+2024-01-29,Fuel,Lucknow,131.64
+2024-01-30,Fuel,Lucknow,133.32
+2024-01-01,Cooking Oil,Lucknow,101.26
+2024-01-02,Cooking Oil,Lucknow,101.63
+2024-01-03,Cooking Oil,Lucknow,102.05
+2024-01-04,Cooking Oil,Lucknow,104.89
+2024-01-05,Cooking Oil,Lucknow,105.6
+2024-01-06,Cooking Oil,Lucknow,106.51
+2024-01-07,Cooking Oil,Lucknow,104.93
+2024-01-08,Cooking Oil,Lucknow,104.65
+2024-01-09,Cooking Oil,Lucknow,103.9
+2024-01-10,Cooking Oil,Lucknow,104.46
+2024-01-11,Cooking Oil,Lucknow,104.17
+2024-01-12,Cooking Oil,Lucknow,107.14
+2024-01-13,Cooking Oil,Lucknow,109.09
+2024-01-14,Cooking Oil,Lucknow,111.4
+2024-01-15,Cooking Oil,Lucknow,113.68
+2024-01-16,Cooking Oil,Lucknow,113.87
+2024-01-17,Cooking Oil,Lucknow,112.82
+2024-01-18,Cooking Oil,Lucknow,113.29
+2024-01-19,Cooking Oil,Lucknow,112.1
+2024-01-20,Cooking Oil,Lucknow,114.07
+2024-01-21,Cooking Oil,Lucknow,115.42
+2024-01-22,Cooking Oil,Lucknow,117.73
+2024-01-23,Cooking Oil,Lucknow,119.36
+2024-01-24,Cooking Oil,Lucknow,117.43
+2024-01-25,Cooking Oil,Lucknow,117.62
+2024-01-26,Cooking Oil,Lucknow,115.72
+2024-01-27,Cooking Oil,Lucknow,114.69
+2024-01-28,Cooking Oil,Lucknow,113.31
+2024-01-29,Cooking Oil,Lucknow,116.17
+2024-01-30,Cooking Oil,Lucknow,117.53
+2024-01-01,Vegetables,Lucknow,42.29
+2024-01-02,Vegetables,Lucknow,42.77
+2024-01-03,Vegetables,Lucknow,43.43
+2024-01-04,Vegetables,Lucknow,44.72
+2024-01-05,Vegetables,Lucknow,43.63
+2024-01-06,Vegetables,Lucknow,46.59
+2024-01-07,Vegetables,Lucknow,48.34
+2024-01-08,Vegetables,Lucknow,50.27
+2024-01-09,Vegetables,Lucknow,48.89
+2024-01-10,Vegetables,Lucknow,48.94
+2024-01-11,Vegetables,Lucknow,48.04
+2024-01-12,Vegetables,Lucknow,49.94
+2024-01-13,Vegetables,Lucknow,48.23
+2024-01-14,Vegetables,Lucknow,46.83
+2024-01-15,Vegetables,Lucknow,48.23
+2024-01-16,Vegetables,Lucknow,47.46
+2024-01-17,Vegetables,Lucknow,49.03
+2024-01-18,Vegetables,Lucknow,48.64
+2024-01-19,Vegetables,Lucknow,46.88
+2024-01-20,Vegetables,Lucknow,47.8
+2024-01-21,Vegetables,Lucknow,50.36
+2024-01-22,Vegetables,Lucknow,52.92
+2024-01-23,Vegetables,Lucknow,55.26
+2024-01-24,Vegetables,Lucknow,56.16
+2024-01-25,Vegetables,Lucknow,58.05
+2024-01-26,Vegetables,Lucknow,58.61
+2024-01-27,Vegetables,Lucknow,60.9
+2024-01-28,Vegetables,Lucknow,60.49
+2024-01-29,Vegetables,Lucknow,61.52
+2024-01-30,Vegetables,Lucknow,60.56
