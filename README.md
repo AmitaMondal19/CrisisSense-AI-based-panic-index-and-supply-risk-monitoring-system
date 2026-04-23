@@ -91,7 +91,7 @@ CrisisSense/
 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/CrisisSense.git
+git clone https://github.com/AmitaMondal19/CrisisSense.git
 cd CrisisSense
 ```
 
