@@ -91,7 +91,7 @@ CrisisSense/
 1. Clone the repository
 
 ```
-git clone https://github.com/AmitaMondal19/CrisisSense.git
+git clone https://github.com/AmitaMondal19/CrisisSense-AI-based-panic-index-and-supply-risk-monitoring-system.git
 cd CrisisSense
 ```
 
